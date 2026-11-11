@@ -1,0 +1,6 @@
+{
+  "name": "Congelados da Sil",
+  "description": "Cardápio digital e catálogo de marmitas e pratos congelados artesanais da Sil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
